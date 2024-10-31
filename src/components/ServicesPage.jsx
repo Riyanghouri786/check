@@ -8,6 +8,7 @@ function ServicesPage() {
         <li>📈 Follower Growth</li>
         <li>💬 Engagement Strategies</li>
         <li>🎥 Content Creation Guidance</li>
+        <li>kon</li>
       </ul>
     </div>
   );
